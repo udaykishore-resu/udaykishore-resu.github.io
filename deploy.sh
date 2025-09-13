@@ -7,3 +7,7 @@ cp -r dist/* ../udaykishore-resu.github.io/
 
 # Navigate to the GitHub Pages repo
 cd ../udaykishore-resu.github.io
+
+git add .
+git commit -m "updated dist"
+git push origin main
